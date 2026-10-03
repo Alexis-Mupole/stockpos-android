@@ -1,0 +1,43 @@
+# StockPOS Contributors 🌟
+
+> Ce document célèbre et recense toutes les personnes qui participent au développement, à l'amélioration, à la documentation et à la diffusion de **StockPOS**.
+> 
+> **Vous avez contribué au projet ? Ajoutez dès maintenant vos coordonnées ci-dessous via une Pull Request !**
+
+---
+
+## 👑 Initiateur & Architecte Fondateur / Project Initiator
+
+### Alexis Mupole
+* **Rôle** : Initiateur, Architecte Logiciel Principal & Fondateur du projet
+* **Localisation** : 📍 Kinshasa, République Démocratique du Congo
+* **Formation** : Licence en Computer Science aux USA & Licence en Business Computing en Ouganda
+* **Spécialité** : Ingénierie numérique, accessibilité, sécurité numérique, architectures mobiles & systèmes d'information
+* **Bio** :
+  > *Consultant en ingénierie numérique, j'accompagne entreprises, ONG et particuliers avec plus de 5 ans d'expérience terrain. Du développement d'applications web sur mesure à la sécurisation de vos systèmes et à la collecte de données mobiles, je conçois des solutions fiables qui transforment vos défis techniques en résultats concrets.*
+
+---
+
+## 🤝 Équipe des Contributeurs / Community Contributors
+
+| Nom & Prénom | Rôle / Spécialité | Ville & Pays | Contributions au projet | Profil / Contact |
+|---|---|---|---|---|
+| **Alexis Mupole** | Project Initiator & Architect | Kinshasa, RD Congo | Initial Architecture, Room DB, POS Checkout, WorkManager, Drive Backup | [LinkedIn / GitHub](#) |
+| *Votre Nom Ici* | *Développeur Kotlin / UI / Test* | *Votre Ville, Pays* | *Votre fonctionnalité, correction de bug ou traduction* | [@votre-pseudo](#) |
+
+---
+
+## 📝 Comment ajouter votre profil dans ce document ?
+
+Dès que vous soumettez une contribution (code, documentation, signalement de bug détaillé, tests, design graphique, traduction), vous êtes invité(e) à ajouter votre nom à ce tableau :
+
+1. Éditez ce fichier `CONTRIBUTORS.md`.
+2. Ajoutez une nouvelle ligne dans le tableau ci-dessus avec les informations suivantes :
+   - **Nom & Prénom** : Votre nom complet ou pseudonyme professionnel.
+   - **Rôle / Spécialité** : ex. *Android Developer, UI/UX Designer, QA Tester, Technical Writer*.
+   - **Ville & Pays** : Votre localisation géographique (ex. *Goma, RD Congo*, *Dakar, Sénégal*, *Paris, France*).
+   - **Contributions au projet** : Description concise de ce que vous avez apporté (ex. *Amélioration du scan caméra*, *Traduction en Swahili*, *Tests unitaires Room*).
+   - **Profil / Contact** : Lien vers votre compte GitHub, LinkedIn ou portfolio.
+3. Intégrez cette modification directement dans votre **Pull Request** ou ouvrez une PR dédiée avec le tag `[docs: contributor update]`.
+
+Merci à tous ceux qui font grandir le logiciel libre et l'inclusion numérique ! ❤️

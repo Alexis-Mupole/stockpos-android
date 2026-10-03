@@ -1,0 +1,6 @@
+{
+  "name": "StockPOS",
+  "description": "Offline-first retail Inventory Management System with built-in Point of Sale, continuous barcode scanning, ESC/POS receipt printing, and role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
